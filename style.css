@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+}
+h1
+{
+    background-color: lightcoral;
+    color: navy;
+    height: 100px;
+    width: 1352px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+h2{
+    height: 75px;
+    width: 1200px;
+    background-color: lightsalmon;
+    color: red;
+    text-align: center;
+    padding-top: 37.5px;
+    margin: auto;
+}
+div{
+   background-color: violet;
+   height: 70px;
+   width: 500px;
+   margin: auto;
+   padding-bottom: 10px;
+}
+#result{
+   
+    text-align: center;
+    padding-top: 26px;
+    
+}
